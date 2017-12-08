@@ -1,8 +1,5 @@
-"""
-    
-    __author__ = Weiye Zhao
-    student number = 44612975
-    __email__ = zhaoweiye1993@gmail.com
+"""    
+    __author__ = Wayne
 """
 
 import stocks
